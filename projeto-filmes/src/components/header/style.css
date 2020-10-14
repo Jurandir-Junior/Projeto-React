@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.menu .link {
+    text-decoration: none;
+    color: #4b2142;
+    font-weight: bold;
+}
+
+.header {
+    background-color: #98D2DE;
+    padding: 40px 0;
+}
+
+.align {
+    width: 1024px;
+    margin: auto;
+}
+
+.align h3 {
+    padding-top: 20px;
+}

@@ -1,0 +1,24 @@
+.home {
+    margin: 0 140px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content img {
+    width: 25%;
+    height: 40%;
+    margin-bottom: 20px;
+}
+
+.filmes {
+    width: 40%;
+    margin: 40px 0;
+}
+
+.categoria {
+    width: 40%;
+    margin: 40px 0;
+}

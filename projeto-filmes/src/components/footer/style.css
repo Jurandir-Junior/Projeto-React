@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+    background-color: #F6511D;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-left: 13.5%;
+}
+
+.filler {
+    margin: 0 4%;
+    padding: 2% 0; 
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.info p {
+    margin: 2% 0;
+}
+
+.logoNegativo {
+    height: 100%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
