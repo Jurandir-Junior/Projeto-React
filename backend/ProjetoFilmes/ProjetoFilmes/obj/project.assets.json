@@ -12436,11 +12436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jurandir\\Desktop\\API Filmes\\SENAI-ESTUDOS-Alunos\\backend\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
+      "projectUniqueName": "C:\\Users\\Jurandir\\Desktop\\Nova pasta\\Projeto-React\\Projeto React\\backend\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
       "projectName": "ProjetoFilmes",
-      "projectPath": "C:\\Users\\Jurandir\\Desktop\\API Filmes\\SENAI-ESTUDOS-Alunos\\backend\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
+      "projectPath": "C:\\Users\\Jurandir\\Desktop\\Nova pasta\\Projeto-React\\Projeto React\\backend\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
       "packagesPath": "C:\\Users\\Jurandir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jurandir\\Desktop\\API Filmes\\SENAI-ESTUDOS-Alunos\\backend\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\obj\\",
+      "outputPath": "C:\\Users\\Jurandir\\Desktop\\Nova pasta\\Projeto-React\\Projeto React\\backend\\ProjetoFilmes\\ProjetoFilmes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

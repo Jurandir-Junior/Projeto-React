@@ -29,8 +29,14 @@ function Login(){
         })  
         .then(response => response.json())
         .then(dados => {
-            localStorage.setItem('token-filmes', dados.token)
-            history.push('/');
+
+            if(dados.token !== undefined){
+                localStorage.setItem('token-filmes', dados.token)
+                history.push('/');
+            } else {
+                alert('Senha ou email inválidos')
+            }
+            
         })
         .catch(erro => console.error(erro))
     }

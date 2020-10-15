@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s6tkvpHntrCVNg4YbuzdhB9Hzs398h9rXPqNVxq0NZURPkKw3guWzM611P13riOXUt8lDlnPzLvapQ2t4xTjoA==",
+  "dgSpecHash": "OQXmAZYk1CytOs8Yu31wcNssLq1Eq3sOjazzztFe0mDuRbYV8WVDoW7ajP79QaTOjUygg/FfnXc9OyKpZbZgyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jurandir\\Desktop\\API Filmes\\SENAI-ESTUDOS-Alunos\\backend\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
+  "projectFilePath": "C:\\Users\\Jurandir\\Desktop\\Nova pasta\\Projeto-React\\Projeto React\\backend\\ProjetoFilmes\\ProjetoFilmes\\ProjetoFilmes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jurandir\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Jurandir\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
