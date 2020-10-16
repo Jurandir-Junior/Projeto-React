@@ -4,6 +4,7 @@ import Footer from '../../components/footer/index';
 import Input from '../../components/input/index';
 import Button from '../../components/button/index';
 import {useHistory} from 'react-router-dom';
+import './style.css';
 import '../../assets/style/global.css';
 	
 function Login(){
@@ -53,7 +54,9 @@ function Login(){
                         }}>
                         <Input name="email" label="E-mail" onChange={e=>setEmail(e.target.value)}/>
                         <Input type="password" name="senha" label="Senha" onChange={e=>setSenha(e.target.value)}/>
-                        <Button value="Enviar"/>
+                        <div>
+                            <Button value="Enviar"/>
+                        </div>
                     </form>
                 </div>
             </div>

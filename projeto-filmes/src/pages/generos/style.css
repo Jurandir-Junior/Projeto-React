@@ -1,0 +1,36 @@
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.table {
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-bottom: 50px;
+}
+
+.row {
+    padding-right: 30px;
+}
+
+.rowImg {
+    padding-left: 10px;
+}
+
+.icon {
+    width: 3%;
+    margin: 3px 10px;
+}
+
+.title h3 {
+    margin: 20px 0 10px 0;
+}
+
+.theater {
+    width: 6.5%;
+}
+
+.generoInput {
+    margin-bottom: 28px;
+}

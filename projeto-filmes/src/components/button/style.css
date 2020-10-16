@@ -1,5 +1,9 @@
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
 .button {
-    margin-left: 105px;
     background-color: #F6511D;
     width: 50%;
     color: white;

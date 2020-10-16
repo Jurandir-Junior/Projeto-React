@@ -1,0 +1,20 @@
+.perfil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+}
+
+.button {
+    margin: 10px 50px 20px;
+    width: 150px;
+}
+
+.permissoes {
+    width: 400px;
+    height: 35px;
+    margin: 10px 0 10px 0;
+}

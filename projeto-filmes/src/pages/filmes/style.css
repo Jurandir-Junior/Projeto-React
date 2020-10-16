@@ -1,0 +1,48 @@
+.cinema {
+    width: 12%;
+    margin-bottom: 20px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.rowFilmes {
+    padding: 5px 15px;
+}
+
+.rowImg {
+    padding-left: 30px;
+}
+
+.rowFilme {
+    padding-left: 14px;
+}
+
+.rowTitulo {
+    width: 20%;
+    padding-left: 10px;
+}
+
+.iconFilmes {
+    width: 8%;
+    margin: 3px 10px;
+}
+
+.formF {
+    display: flex;
+    margin-top: 20px;
+}
+
+.formF .selectGenero {
+    margin-left: 30px;
+    width: 200px;
+    height: 35px;
+    margin-top: 18px;
+}
+
+.btnSalvar {
+    margin-top: 7px;
+}

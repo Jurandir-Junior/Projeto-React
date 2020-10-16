@@ -7,7 +7,7 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement>{
 
 const Button:React.FC<ButtonProps> = ({value}) =>{
     return(
-        <div>
+        <div className="btn">
             <input className="button" type="submit" value={value}/>
         </div>
     );
