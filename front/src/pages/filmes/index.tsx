@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { SetStateAction, useEffect, useState } from 'react';
 import Header from '../../components/header/index';
 import Footer from '../../components/footer/index';
 import Button from '../../components/button/index';
@@ -10,6 +10,7 @@ import imgCinema from '../../assets/images/cinema.png';
 
 import '../../assets/style/global.css';
 import './style.css';
+import { resolveAny } from 'dns';
 
 function parseJwt(token: any) {
     var base64Url = token.split('.')[1];
@@ -118,7 +119,7 @@ function Filmes() {
     let tokenDecode = parseJwt(localStorage.getItem('token-filmes'));
 
     const menu = () => {
-        if (tokenDecode.email === 'adm@adm.com') {
+        if (tokenDecode.email === 'adm@adm.com' ) {
             return (
                 <table>
                     <thead>
@@ -205,7 +206,7 @@ function Filmes() {
             return (
                 <div >
                     <p>Busque seu Filme</p>
-                    <input onChange={CRIARFUNÇAO} placeholder="digite aqui.."></input>
+                    <input id="form-input" placeholder="digite aqui.."></input>
                 </div>
 
             )
